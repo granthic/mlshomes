@@ -1836,7 +1836,7 @@
         "date_created": "2020-11-12 14:05:25",
         "date_modified": "1900-01-01",
         "isNewHome": false
-    }
+    },
 {
     "id": 1,
     "home_address": "239_TERRILL_RD",
@@ -1904,7 +1904,8 @@
     "date_created": "2020-11-12 15:44:57",
     "date_modified": "1900-01-01",
     "isNewHome": true
-}{
+},
+{
     "id": 3,
     "home_address": "22_LAUREL_PL",
     "price": "$425000",
